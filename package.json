@@ -1,5 +1,6 @@
 {
   "name": "01-fundamentos-react",
+  "homepage": "https://caioscatolino.github.io/01-feed",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +11,6 @@
   },
   "dependencies": {
     "date-fns": "^2.29.3",
-    "gh-pages": "^5.0.0",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -19,6 +19,7 @@
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "@vitejs/plugin-react": "^3.1.0",
+    "gh-pages": "^5.0.0",
     "vite": "^4.1.0"
   }
 }
